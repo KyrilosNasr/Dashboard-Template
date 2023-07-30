@@ -116,6 +116,9 @@
 .mb-25 {
   margin-bottom: 25px;
 }
+.my-20{
+  margin: 20px 0;
+}
 /* End Padding + Margin */
 /* Start Color */
 .c-black {
@@ -167,7 +170,7 @@
 }
 /* End Position */
 /* Start Font */
-.txt-c {
+.text-center {
   text-align: center;
 }
 .fs-13 {
@@ -186,7 +189,7 @@
   font-weight: bold;
 }
 @media (max-width: 767px) {
-  .txt-c-mobile {
+  .text-center-mobile {
     text-align: center;
   }
 }
@@ -240,7 +243,7 @@
   align-items: center;
   justify-content: space-between;
 }
-.btn-shape {
+.btn {
   padding: 4px 10px;
   border-radius: 6px;
 }
