@@ -13,6 +13,12 @@
 .f-wrap {
   flex-wrap: wrap;
 }
+.flex-col{
+  flex-direction: column;
+}
+.flex-col{
+  flex-direction: column;
+}
 .align-center {
   align-items: center;
 }
@@ -118,6 +124,9 @@
 }
 .my-20{
   margin: 20px 0;
+}
+.ml-auto{
+  margin-left: auto;
 }
 /* End Padding + Margin */
 /* Start Color */

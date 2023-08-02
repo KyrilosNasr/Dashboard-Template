@@ -259,3 +259,12 @@ ul {
 }
 
 /* End Welcome Widget */
+
+/* Start Quick-draft */
+
+.quick-draft form textarea {
+  resize: none;
+  min-height: 180px;
+}
+
+/* End Quick-draft */
