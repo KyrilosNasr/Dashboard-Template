@@ -458,3 +458,21 @@ opacity: 0.3;
 }
 /* End animation */
 /* End Last Project */
+/* Start Reminders */
+.reminders ul li .key{
+  width: 15px;
+  height: 15px;
+}
+.reminders ul li > .blue {
+    border-left: 2px solid var(--blue-color);
+}
+.reminders ul li > .green {
+    border-left: 2px solid var(--green-color);
+}
+.reminders ul li > .orange {
+    border-left: 2px solid var(--orange-color);
+}
+.reminders ul li > .red {
+    border-left: 2px solid var(--red-color);
+}
+/* End Reminders */
